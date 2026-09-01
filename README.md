@@ -197,7 +197,7 @@ credit-risk-platform/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/credit-risk-platform.git
+git clone https://github.com/gkrnitr2027/credit-risk-platform.git
 cd credit-risk-platform
 ```
 
